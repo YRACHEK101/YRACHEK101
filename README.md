@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @YRACHEK101
+# 👋 Hi, I’m Yahia Rachek
 
 ## 👀 I’m interested in:
 - Full Stack Development
@@ -19,7 +19,7 @@
 ## 📫 How to reach me:
 - Email: [r.yahia.dev@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/yahia-rachek-47b964304/]
-- Portfolio: [https://yourportfolio.com]
+
 
 ## 😄 Pronouns:
 - He/Him
