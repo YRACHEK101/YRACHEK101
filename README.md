@@ -19,7 +19,7 @@
 ## 📫 How to reach me:
 - Email: [r.yahia.dev@gmail.com]
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/yahia-rachek-47b964304)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- Portfolio: [https://yourportfolio.com]
 
 ## 😄 Pronouns:
 - He/Him
