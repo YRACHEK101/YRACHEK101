@@ -17,7 +17,7 @@
 - Full stack development with React.js, Node.js, Express, and MySQL
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](r.yahia.dev@gmail.com)
+- Email: [r.yahia.dev@gmail.com]
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/yahia-rachek-47b964304)
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
 
