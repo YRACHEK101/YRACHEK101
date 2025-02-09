@@ -1,4 +1,3 @@
-Here’s a professionally recoded version of your README, optimized for clarity, aesthetics, and modern developer standards. It incorporates a clean layout, consistent styling, and an engaging tone to showcase your skills and personality effectively.
 
 ---
 
