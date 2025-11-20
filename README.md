@@ -85,16 +85,23 @@ I'm a **Full Stack MERN Developer** passionate about building scalable, performa
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YRACHEK101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YRACHEK101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YRACHEK101&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YRACHEK101&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff)
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph" />
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+  
 </div>
 
 ---
@@ -146,7 +153,7 @@ Whether you're looking for a collaborator, need help with a project, or just wan
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YRACHEK101&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=YRACHEK101&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 **⚡ Fun Fact:** When I'm not coding, you'll find me exploring new JavaScript frameworks, contributing to open source, or solving complex algorithmic challenges. The world of web development never sleeps, and neither does my curiosity! 🧠✨
 
