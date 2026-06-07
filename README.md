@@ -1,16 +1,20 @@
-# 👨‍💻 **Hi, I'm Yahia Rachek**
+<!-- ════════════════════════ HEADER BANNER ════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Orchestration+Engineer+%26+Full-Stack+Architect;Building+Enterprise+ERPs+%26+Traceability+Systems;Leveraging+Agentic+AI+for+Scalable+PERN+Solutions;PostgreSQL+%7C+Express+%7C+React+%7C+Node.js+%2B+TypeScript" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1E90FF,100:8957e5&height=210&section=header&text=Yahia%20Rachek&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Orchestration%20Engineer%20%C2%B7%20Full-Stack%20PERN%20Architect&descAlignY=58&descSize=20&animation=fadeIn" alt="Yahia Rachek" />
 </div>
 
+<!-- ════════════════════════ ROTATING ROLES ═══════════════════════ -->
+
 <div align="center">
-  <samp>
-    🤖 <strong>AI Orchestration Engineer & Full-Stack Architect — Building Enterprise ERPs & Industrial Traceability Systems with Agentic AI on a scalable PERN stack</strong> 🤖
-  </samp>
+  <a href="https://github.com/YRACHEK101">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=AI+Orchestration+Engineer+%26+Full-Stack+Architect;Building+Enterprise+ERPs+%26+Traceability+Systems;Agentic+AI+for+Scalable+PERN+Solutions;PostgreSQL+%7C+Express+%7C+React+%7C+Node.js+%2B+TypeScript" alt="Roles" />
+  </a>
 </div>
 
 <br/>
+
+<!-- ════════════════════════ STATUS BADGES ════════════════════════ -->
 
 <div align="center">
 
@@ -21,129 +25,132 @@
 
 </div>
 
+<!-- ════════════════════════ SOCIAL LINKS ═════════════════════════ -->
+
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-rachek-47b964304/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.yahia.dev@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YRACHEK101)
+  ![Profile Views](https://komarev.com/ghpvc/?username=YRACHEK101&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-## 🌟 **About Me**
-
-I'm a **Full-Stack Architect & AI Orchestration Engineer** who designs and ships **enterprise-grade ERP platforms** and **industrial traceability systems**. I build production software end-to-end on the **PERN stack (PostgreSQL · Express · React · Node.js)** with **TypeScript everywhere**, and I weave **agentic AI** into business workflows to make operations measurably faster and smarter.
-
-### 🎯 **What I Do Best**
-- 🏗️ **Architect & Build** modular, multi-tenant ERP systems from database schema to UI
-- 🔗 **Design Type-Safe APIs** — REST + Prisma + Zod, documented with Swagger/OpenAPI
-- 🧠 **Orchestrate AI Agents** — LLM-driven automation for stock, forecasting & decision support
-- 🏭 **Engineer Traceability** — lot-tracking, audit trails & end-to-end supply-chain visibility
-- 🐳 **Ship & Scale** — Dockerized services, Redis caching, Nginx, CI/CD & E2E test coverage
-
-### 🌱 **Currently Focused On**
-- **Agentic AI Pipelines** — multi-step LLM orchestration (Claude / Anthropic API) for ERP automation
-- **Scalable PostgreSQL** — Prisma schema design, indexing & query optimization at scale
-- **Hardened TypeScript Backends** — Express + Helmet + rate-limiting + RBAC security
-- **Quality Engineering** — Playwright E2E, Jest, SonarQube & Husky-gated pipelines
-
----
-
-## 🛠️ **Tech Stack & Tools**
+<!-- ════════════════════════ ABOUT ME ═════════════════════════════ -->
 
 <div align="center">
 
-### **Frontend Arsenal**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+## 🌟 About Me
 
-### **Backend Powerhouse**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<table>
+<tr><td align="center">
 
-### **Database & Cache**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+I'm a **Full-Stack Architect & AI Orchestration Engineer** who designs and ships **enterprise-grade ERP platforms** and **industrial traceability systems**.<br/>
+I build production software end-to-end on the **PERN stack** *(PostgreSQL · Express · React · Node.js)* with **TypeScript everywhere**,<br/>weaving **agentic AI** into business workflows to make operations measurably faster and smarter.
 
-### **AI & Agents**
-![Anthropic](https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8957e5?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=langchain&logoColor=white)
-
-### **DevOps & Quality**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</td></tr>
+</table>
 
 </div>
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 🚀 **What I Build**
+### 🎯 What I Do Best
+- 🏗️ **Architect & Build** modular, multi-tenant ERP systems — schema → UI
+- 🔗 **Design Type-Safe APIs** — REST + Prisma + Zod, documented with Swagger
+- 🧠 **Orchestrate AI Agents** — LLM automation for stock, forecasting & decisions
+- 🏭 **Engineer Traceability** — lot-tracking & end-to-end supply-chain visibility
+- 🐳 **Ship & Scale** — Docker, Redis caching, Nginx, CI/CD & E2E coverage
+
+</td>
+<td valign="top" width="50%">
+
+### 🌱 Currently Focused On
+- ⚙️ **Agentic AI Pipelines** — multi-step LLM orchestration (Claude / Anthropic)
+- 🐘 **Scalable PostgreSQL** — Prisma design, indexing & query optimization
+- 🛡️ **Hardened Backends** — Express + Helmet + rate-limiting + RBAC
+- ✅ **Quality Engineering** — Playwright E2E, Jest, SonarQube & Husky gates
+- 📈 **Observability** — structured logging, metrics & production readiness
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════ TECH STACK ═══════════════════════════ -->
 
 <div align="center">
 
-### 🏭 **Enterprise ERP & Industrial Traceability Platforms**
+## 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="right" width="170"><b>🎨 &nbsp;Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ &nbsp;Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ &nbsp;Data & Cache</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🐳 &nbsp;DevOps & QA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,jest,git,linux&theme=dark" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧰 &nbsp;Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" alt="Tooling" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🤖 &nbsp;AI & Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+      <img src="https://img.shields.io/badge/Agentic_AI-8957e5?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+      <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=langchain&logoColor=white" alt="LLM Orchestration" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-I design and ship full **enterprise ERP & traceability platforms**, built end-to-end on **PERN + TypeScript** with embedded **agentic-AI engines** for automation and decision support.
+<br/>
 
-- 🏭 **Modular ERP** — stock, products, orders (B2B/B2C), procurement, logistics & audit
-- 🔍 **Industrial Traceability** — lot-tracking & full end-to-end supply-chain audit trails
-- 🤖 **Agentic AI Engines** — LLM-orchestrated intelligence & automated decision support
-- 🛡️ **Secure by Design** — JWT + RBAC, Helmet, rate-limiting, validated with Zod/Joi
-- ⚙️ **Production-Grade** — Dockerized, Redis-cached, Nginx-served, Swagger-documented
-- ✅ **Quality-Gated** — Jest unit tests, Playwright E2E suites & SonarQube analysis
+<!-- ════════════════════════ GITHUB ANALYTICS ═════════════════════ -->
 
 <div align="center">
-  <sub><i>Stack: PostgreSQL · Prisma · Express · React · Vite · Tailwind · Redis · Docker · TypeScript · Agentic AI</i></sub>
-</div>
 
----
+## 📈 GitHub Analytics
 
-## 📈 **GitHub Analytics**
-
-> 📊 Live data pulled straight from the GitHub API for [`@YRACHEK101`](https://github.com/YRACHEK101) — including **private repositories & commits** via a self-hosted stats instance.
+<sub>📊 Live data straight from the GitHub API for <a href="https://github.com/YRACHEK101"><code>@YRACHEK101</code></a> — including <b>private repos & commits</b> via a self-hosted stats instance.</sub>
 
 <!--
   ⚙️  The two cards below point to YOUR OWN self-hosted github-readme-stats
       instance (https://yrachek-stats.vercel.app) so they ALWAYS show real,
       private-inclusive data and never break when the public server is paused.
-      One-time setup guide is in the collapsible section right below the cards.
-      After deploying, if you named your Vercel project something else, just
-      replace "yrachek-stats" in both URLs with your project name.
+      Setup guide is in the collapsible section below. If you named your Vercel
+      project something else, replace "yrachek-stats" in both URLs.
 -->
 
-<div align="center">
+<br/>
 
-  <img height="180em" src="https://yrachek-stats.vercel.app/api?username=YRACHEK101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Yahia's GitHub Stats" />
-  <img height="180em" src="https://yrachek-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+  <img height="170em" src="https://yrachek-stats.vercel.app/api?username=YRACHEK101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&icon_color=8957e5" alt="GitHub Stats" />
+  <img height="170em" src="https://yrachek-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e" alt="Top Languages" />
 
-</div>
+  <br/>
 
-<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YRACHEK101&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=8957e5&currStreakLabel=00d9ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
 
-  <img src="https://streak-stats.demolab.com?user=YRACHEK101&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+  <br/>
 
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Activity Graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=8957e5&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -152,79 +159,98 @@ I design and ship full **enterprise ERP & traceability platforms**, built end-to
 
 <br/>
 
-The Stats & Top-Languages cards above point to **`https://yrachek-stats.vercel.app`** — your own copy of [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats). The free public server is frequently rate-limited or paused, so self-hosting is the only way to guarantee live data **and** count your private repos. It takes ~5 minutes:
+The Stats & Top-Languages cards point to **`https://yrachek-stats.vercel.app`** — your own copy of [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats). The free public server is frequently rate-limited or paused, so self-hosting is the only way to guarantee live data **and** count your private repos. ~5 minutes:
 
 1. **Fork** the repo → <https://github.com/anuraghazra/github-readme-stats>
 2. **Create a GitHub token (PAT)** → [Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
-   - *Classic* token, no scopes needed for public stats; tick **`repo`** if you want **private** repos/commits counted.
+   - *Classic* token, no scopes needed for public stats; tick **`repo`** to count **private** repos/commits.
 3. **Deploy to Vercel** → <https://vercel.com/new> → import your fork.
-   - Name the project **`yrachek-stats`** (so the URL matches this README), then add an Environment Variable **`PAT_1`** = *your token* before deploying.
-4. **Done.** Your endpoint is now `https://yrachek-stats.vercel.app/api?username=YRACHEK101...`.
-   - Used a different project name? Just find-and-replace `yrachek-stats` in the two `<img>` URLs above.
+   - Name the project **`yrachek-stats`** (so the URL matches), then add an Environment Variable **`PAT_1`** = *your token* before deploying.
+4. **Done.** Your endpoint is `https://yrachek-stats.vercel.app/api?username=YRACHEK101...`.
+   - Used a different project name? Find-and-replace `yrachek-stats` in the two `<img>` URLs above.
 
-> 💡 Tip: keep `&include_all_commits=true&count_private=true` in the URLs — combined with the `repo`-scoped `PAT_1`, those flags surface your **complete, real** contribution totals.
+> 💡 Keep `&include_all_commits=true&count_private=true` in the URLs — combined with the `repo`-scoped `PAT_1`, those flags surface your **complete, real** contribution totals.
 
 </details>
 
----
+<br/>
 
-## 🎯 **What I'm Looking For**
+<!-- ════════════════════════ LOOKING FOR ══════════════════════════ -->
 
-### 💼 **Open to Opportunities**
-- **Full-Stack / PERN Engineer** roles building scalable products
-- **AI Engineer / LLM Orchestration** positions integrating agents into real workflows
-- **Software Architect** engagements for ERP, traceability & enterprise platforms
-- **Contract & Consulting** work on PostgreSQL-backed Node/React systems
+<div align="center">
 
-### 🤝 **Let's Collaborate On**
-- 🏭 **Enterprise Systems** — ERPs, dashboards, SaaS & traceability platforms
-- 🤖 **AI-Powered Apps** — agentic automation, RAG & LLM-driven decision support
-- 🛠️ **Developer Tooling** — type-safe APIs, libraries & CI/CD pipelines
-- 🌍 **Open Source** — contributing across the TypeScript & PostgreSQL ecosystem
+## 🎯 What I'm Looking For
 
----
+</div>
 
-## 🏆 **Engineering Philosophy**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💼 Open to Opportunities
+- **Full-Stack / PERN Engineer** — scalable products
+- **AI Engineer / LLM Orchestration** — agents in production
+- **Software Architect** — ERP, traceability & enterprise platforms
+- **Contract & Consulting** — PostgreSQL-backed Node/React systems
+
+</td>
+<td valign="top" width="50%">
+
+### 🤝 Let's Collaborate On
+- 🏭 **Enterprise Systems** — ERPs, dashboards, SaaS & traceability
+- 🤖 **AI-Powered Apps** — agentic automation, RAG & decision support
+- 🛠️ **Developer Tooling** — type-safe APIs, libraries & CI/CD
+- 🌍 **Open Source** — across the TypeScript & PostgreSQL ecosystem
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════ PHILOSOPHY ═══════════════════════════ -->
+
+<div align="center">
+
+## 🏆 Engineering Philosophy
+
+</div>
 
 ```typescript
 const myApproach: EngineeringPrinciples = {
-  code: "Type-safe, readable, and maintainable",
+  code:         "Type-safe, readable, and maintainable",
   architecture: "Modular, scalable, and domain-driven",
-  data: "PostgreSQL-first with well-modeled schemas",
-  ai: "Agentic — orchestrating LLMs into real workflows",
-  testing: "Unit + E2E, quality-gated before merge",
-  delivery: "Dockerized, observable, and production-ready",
+  data:         "PostgreSQL-first with well-modeled schemas",
+  ai:           "Agentic — orchestrating LLMs into real workflows",
+  testing:      "Unit + E2E, quality-gated before merge",
+  delivery:     "Dockerized, observable, and production-ready",
 };
 
 console.log("Engineering intelligent systems, one commit at a time! 🚀");
 ```
 
----
+<br/>
 
-## 📫 **Let's Connect!**
+<!-- ════════════════════════ CONNECT ══════════════════════════════ -->
 
 <div align="center">
 
-### 🌟 **Ready to build something intelligent together?**
+## 📫 Let's Connect
 
-Whether you need an architect for an enterprise platform, an engineer to bring AI agents into production, or a collaborator for your next ambitious build — let's talk.
+**🌟 Ready to build something intelligent together?**
 
-📧 **Email:** [r.yahia.dev@gmail.com](mailto:r.yahia.dev@gmail.com)  
-💼 **LinkedIn:** [Yahia Rachek](https://www.linkedin.com/in/yahia-rachek-47b964304/)  
-🐙 **GitHub:** [@YRACHEK101](https://github.com/YRACHEK101)
+Whether you need an architect for an enterprise platform, an engineer to bring AI agents into production,<br/>or a collaborator for your next ambitious build — let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-rachek-47b964304/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.yahia.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YRACHEK101)
 
 </div>
 
----
+<!-- ════════════════════════ FOOTER BANNER ════════════════════════ -->
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=YRACHEK101&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
-<div align="center">
-  <samp>
-    <strong>Thanks for stopping by! Happy building! 🚀</strong>
-  </samp>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1E90FF,100:00D9FF&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=78&animation=fadeIn" alt="footer" />
 </div>
