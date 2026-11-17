@@ -6,11 +6,12 @@
 
 <div align="center">
 
-<a href="https://yahia-rachek.vercel.app"><img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/01-hero.svg" width="100%" alt="Yahia Rachek — Full-Stack Engineer and AI Orchestration Engineer. PERN stack, TypeScript, enterprise ERP and industrial traceability systems." /></a>
+<a href="https://yahia-rachek.vercel.app"><img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/01-hero.svg" width="100%" alt="Yahia Rachek — Technical Lead, Full-Stack and AI Engineer. PERN stack, TypeScript, enterprise ERP and industrial traceability systems." /></a>
 
 <p>
-I design and build <b>enterprise ERP platforms</b> and <b>industrial traceability systems</b> — from the database schema to the last pixel of the interface.
-Full <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i>, <b>TypeScript everywhere</b>, and <b>agentic AI</b> woven into real business workflows.
+<b>Yahia Rachek</b> is a <b>Technical Lead</b> and <b>Full-Stack &amp; AI Engineer</b> based in Morocco.<br/>
+I design and build <b>enterprise ERP platforms</b>, <b>industrial traceability systems</b> and <b>agentic AI pipelines</b> — from the database schema to the last pixel of the interface,
+on the <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i> with <b>TypeScript everywhere</b>.
 </p>
 
 <img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/02-architecture.svg" width="100%" alt="How I build: React interface, Express API with Zod, Prisma data model, PostgreSQL, Redis cache and Claude agents — one TypeScript system." />
@@ -38,7 +39,51 @@ Full <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i>, <b>Ty
 <a href="mailto:r.yahia.dev@gmail.com"><img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/09-btn-email.svg" alt="Email — r.yahia.dev@gmail.com" /></a>
 <a href="https://github.com/YRACHEK101"><img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/09-btn-github.svg" alt="GitHub" /></a>
 
-<br/><br/>
+
+<br/>
+
+<details>
+<summary><sub>Profile — in plain text</sub></summary>
+
+<br/>
+
+<div align="left">
+
+### Yahia Rachek — Technical Lead · Full-Stack &amp; AI Engineer
+
+**Yahia Rachek** (GitHub: [@YRACHEK101](https://github.com/YRACHEK101)) is a Technical Lead and Full-Stack &amp; AI Engineer based in Morocco. He designs and builds enterprise ERP platforms, industrial traceability systems and agentic AI pipelines, end to end, with TypeScript, React, Next.js, Node.js, Express, Prisma and PostgreSQL.
+
+| | |
+|---|---|
+| **Role** | Technical Lead · Full-Stack Engineer · AI Orchestration Engineer |
+| **Location** | Morocco |
+| **Specialties** | Enterprise ERP, industrial traceability, agentic AI, LLM orchestration, software architecture |
+| **Stack** | TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, Prisma, Zod, GraphQL, PostgreSQL, Redis |
+| **Delivery** | Docker, Nginx, GitHub Actions, Jest, Playwright, SonarQube |
+| **AI** | Claude (Anthropic), agentic workflows, multi-step LLM orchestration, RAG |
+| **Portfolio** | [yahia-rachek.vercel.app](https://yahia-rachek.vercel.app) |
+| **LinkedIn** | [linkedin.com/in/yahia-rachek-47b964304](https://www.linkedin.com/in/yahia-rachek-47b964304/) |
+| **Email** | [r.yahia.dev@gmail.com](mailto:r.yahia.dev@gmail.com) |
+
+#### Frequently asked
+
+**Who is Yahia Rachek?**
+A Technical Lead and Full-Stack &amp; AI Engineer from Morocco who builds enterprise ERP platforms, industrial traceability systems and agentic AI pipelines on the PERN stack with TypeScript.
+
+**What does Yahia Rachek build?**
+Modular, multi-tenant ERP systems; lot tracking and end-to-end supply-chain traceability; type-safe REST APIs with Prisma and Zod; and AI agents for stock management, forecasting and decision support.
+
+**Which technologies does he use?**
+PostgreSQL, Express, React and Node.js (PERN), Next.js, TypeScript, Prisma, Redis, Docker and Claude for agentic AI.
+
+**How can I contact Yahia Rachek?**
+By email at r.yahia.dev@gmail.com, on [LinkedIn](https://www.linkedin.com/in/yahia-rachek-47b964304/), or through his portfolio at [yahia-rachek.vercel.app](https://yahia-rachek.vercel.app).
+
+</div>
+
+</details>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=YRACHEK101&label=views&color=30363d&style=flat-square" alt="Profile views" />
 
