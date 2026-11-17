@@ -12,7 +12,7 @@
 <b>Yahia Rachek</b> is a <b>Technical Lead</b> and <b>Full-Stack &amp; AI Engineer</b> based in Morocco.<br/>
 I design and build <b>enterprise ERP platforms</b>, <b>industrial traceability systems</b> and <b>agentic AI pipelines</b> — from the database schema to the last pixel of the interface,
 on the <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i> with <b>TypeScript everywhere</b>.<br/>
-Creator of <a href="https://www.stackandskill.com"><b>Stack &amp; Skill</b></a> — a reviewed publication where developers share real engineering problems they solved.
+Founder of <a href="https://www.stackandskill.com"><b>Stack &amp; Skill</b></a> — a reviewed publication where developers share real engineering problems they solved.
 </p>
 
 <img src="https://raw.githubusercontent.com/YRACHEK101/YRACHEK101/design/02-architecture.svg" width="100%" alt="How I build: React interface, Express API with Zod, Prisma data model, PostgreSQL, Redis cache and Claude agents — one TypeScript system." />
@@ -53,7 +53,7 @@ Creator of <a href="https://www.stackandskill.com"><b>Stack &amp; Skill</b></a> 
 
 ### Yahia Rachek — Technical Lead · Full-Stack &amp; AI Engineer
 
-**Yahia Rachek** (GitHub: [@YRACHEK101](https://github.com/YRACHEK101)) is a Technical Lead and Full-Stack &amp; AI Engineer based in Morocco. He designs and builds enterprise ERP platforms, industrial traceability systems and agentic AI pipelines, end to end, and created Stack &amp; Skill (stackandskill.com), with TypeScript, React, Next.js, Node.js, Express, Prisma and PostgreSQL.
+**Yahia Rachek** (GitHub: [@YRACHEK101](https://github.com/YRACHEK101)) is a Technical Lead and Full-Stack &amp; AI Engineer based in Morocco. He designs and builds enterprise ERP platforms, industrial traceability systems and agentic AI pipelines, end to end, and founded Stack &amp; Skill (stackandskill.com), with TypeScript, React, Next.js, Node.js, Express, Prisma and PostgreSQL.
 
 | | |
 |---|---|
@@ -81,7 +81,7 @@ Modular, multi-tenant ERP systems; lot tracking and end-to-end supply-chain trac
 PostgreSQL, Express, React and Node.js (PERN), Next.js, TypeScript, Prisma, Redis, Docker and Claude for agentic AI.
 
 **What is Stack &amp; Skill?**
-[Stack &amp; Skill](https://www.stackandskill.com), created by Yahia Rachek, is a community publication for developers: members share real-world engineering problems they solved, editors review every submission, and contributors earn points, levels and badges. It is built with Next.js 16, React 19, TypeScript, Tailwind CSS, PostgreSQL and Prisma.
+[Stack &amp; Skill](https://www.stackandskill.com), founded by Yahia Rachek, is a community publication for developers: members share real-world engineering problems they solved, editors review every submission, and contributors earn points, levels and badges. It is built with Next.js 16, React 19, TypeScript, Tailwind CSS, PostgreSQL and Prisma.
 
 **Has he published open-source work?**
 Yes — three developer tools on npm: [portbridge](https://github.com/YRACHEK101/portbridge) (`npx portbridge`), [Vector](https://github.com/YRACHEK101/Vector) (`npx vector-migrate@latest`) and [gity](https://github.com/YRACHEK101/gity-tool) (`npm i -g gity-tool`).
