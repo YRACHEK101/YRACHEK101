@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="676" viewBox="0 0 1200 676" role="img" aria-label="Principles: type-safe code, modular architecture, PostgreSQL-first data, agentic AI, quality-gated testing, production-ready delivery.">
+<title>Principles: type-safe code, modular architecture, PostgreSQL-first data, agentic AI, quality-gated testing, production-ready delivery.</title>
+<style>
+  :root { --p:#1d1d1f; --s:#6e6e73; --t:#86868b; --bg:#fbfbfd; --glass:rgba(255,255,255,0.62);
+           --edge:rgba(255,255,255,0.95); --edge2:rgba(0,0,0,0.06); --hair:rgba(0,0,0,0.08);
+           --chip:rgba(255,255,255,0.7); --blob:0.55; --frost:0.62; --tint:0.30; --sheen:0.35; }
+  @media (prefers-color-scheme: dark) {
+    :root { --p:#f5f5f7; --s:#a1a1a6; --t:#8e8e93; --bg:#0d1117; --glass:rgba(255,255,255,0.045);
+             --edge:rgba(255,255,255,0.32); --edge2:rgba(255,255,255,0.04); --hair:rgba(255,255,255,0.09);
+             --chip:rgba(255,255,255,0.08); --blob:0.30; --frost:0.30; --tint:0.22; --sheen:0.07; }
+  }
+  text { font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .p { fill:var(--p); } .s { fill:var(--s); } .t { fill:var(--t); }
+  .bg { fill:var(--bg); }
+  .glass { fill:var(--glass); }
+  .edge { fill:none; stroke:url(#edge); stroke-width:1.2; }
+  .hair { stroke:var(--hair); stroke-width:1; }
+  .chip { fill:var(--chip); stroke:var(--edge2); stroke-width:1; }
+  .blobs { opacity:var(--blob); } .tint { opacity:var(--tint); }
+  .rim { fill:none; stroke:var(--hair); stroke-width:1; }
+  .frost { fill:var(--glass); opacity:var(--frost); }
+  .eyebrow { font-size:13px; font-weight:600; letter-spacing:2.6px; }
+  .drift1 { animation: d1 22s ease-in-out infinite alternate; }
+  .drift2 { animation: d2 28s ease-in-out infinite alternate; }
+  .drift3 { animation: d3 25s ease-in-out infinite alternate; }
+  @keyframes d1 { to { transform: translate(80px, 30px); } }
+  @keyframes d2 { to { transform: translate(-90px, -20px); } }
+  @keyframes d3 { to { transform: translate(40px, -40px); } }
+  @media (prefers-reduced-motion: reduce) { .drift1, .drift2, .drift3 { animation:none; } }
+</style>
+<defs>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <filter id="softer" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="110"/></filter>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
+    <feDropShadow dx="0" dy="14" stdDeviation="22" flood-color="#000" flood-opacity="0.10"/>
+  </filter>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="var(--edge)"/>
+    <stop offset="0.45" stop-color="var(--edge2)"/>
+    <stop offset="1" stop-color="var(--edge)" stop-opacity="0.55"/>
+  </linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" style="stop-opacity:var(--sheen)"/>
+    <stop offset="0.35" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="frame"><rect width="1200" height="676" rx="32"/></clipPath>
+</defs>
+
+<text x="600" y="78" text-anchor="middle" class="eyebrow t">PRINCIPLES</text>
+  <g filter="url(#shadow)"><rect x="48" y="110" width="1104" height="526" rx="28" class="glass"/></g><clipPath id="g6"><rect x="48" y="110" width="1104" height="526" rx="28"/></clipPath><g clip-path="url(#g6)"><g class="tint" filter="url(#softer)" transform="translate(48 110)"><circle class="drift1" cx="199" cy="132" r="298" fill="#7ab8ff"/><circle class="drift2" cx="883" cy="158" r="278" fill="#c3a6ff"/><circle class="drift3" cx="684" cy="500" r="258" fill="#f7b8d2"/><circle class="drift2" cx="110" cy="500" r="219" fill="#8fe3d2"/></g></g>
+  <rect x="48" y="110" width="1104" height="526" rx="28" fill="url(#sheen)"/>
+  <rect x="48.5" y="110.5" width="1103" height="525" rx="28" class="rim"/>
+  <rect x="48.6" y="110.6" width="1102.8" height="524.8" rx="28" class="edge"/><text x="600" y="186" text-anchor="middle" font-size="30" font-weight="600" letter-spacing="-0.8" class="p">Simplicity is not the absence of clutter.</text><text x="600" y="224" text-anchor="middle" font-size="30" font-weight="400" letter-spacing="-0.8" class="s">It is the result of care.</text><line x1="120" y1="256" x2="1080" y2="256" class="hair"/><text x="120" y="290" font-size="15" font-weight="600" letter-spacing="1.6" class="t">CODE</text><text x="1080" y="290" text-anchor="end" font-size="18" class="p">Type-safe, readable, maintainable</text><line x1="120" y1="312" x2="1080" y2="312" class="hair"/><text x="120" y="346" font-size="15" font-weight="600" letter-spacing="1.6" class="t">ARCHITECTURE</text><text x="1080" y="346" text-anchor="end" font-size="18" class="p">Modular, scalable, domain-driven</text><line x1="120" y1="368" x2="1080" y2="368" class="hair"/><text x="120" y="402" font-size="15" font-weight="600" letter-spacing="1.6" class="t">DATA</text><text x="1080" y="402" text-anchor="end" font-size="18" class="p">PostgreSQL first — schemas modelled with care</text><line x1="120" y1="424" x2="1080" y2="424" class="hair"/><text x="120" y="458" font-size="15" font-weight="600" letter-spacing="1.6" class="t">AI</text><text x="1080" y="458" text-anchor="end" font-size="18" class="p">Agentic — LLMs woven into real workflows</text><line x1="120" y1="480" x2="1080" y2="480" class="hair"/><text x="120" y="514" font-size="15" font-weight="600" letter-spacing="1.6" class="t">TESTING</text><text x="1080" y="514" text-anchor="end" font-size="18" class="p">Unit and E2E, quality-gated before merge</text><line x1="120" y1="536" x2="1080" y2="536" class="hair"/><text x="120" y="570" font-size="15" font-weight="600" letter-spacing="1.6" class="t">DELIVERY</text><text x="1080" y="570" text-anchor="end" font-size="18" class="p">Containerised, observable, production-ready</text>
+</svg>
