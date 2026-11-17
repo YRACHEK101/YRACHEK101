@@ -61,6 +61,7 @@ on the <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i> with
 | **Stack** | TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, Prisma, Zod, GraphQL, PostgreSQL, Redis |
 | **Delivery** | Docker, Nginx, GitHub Actions, Jest, Playwright, SonarQube |
 | **AI** | Claude (Anthropic), agentic workflows, multi-step LLM orchestration, RAG |
+| **Open source** | [portbridge](https://github.com/YRACHEK101/portbridge) · [Vector](https://github.com/YRACHEK101/Vector) · [gity](https://github.com/YRACHEK101/gity-tool) — developer tools published on npm |
 | **Portfolio** | [yahia-rachek.vercel.app](https://yahia-rachek.vercel.app) |
 | **LinkedIn** | [linkedin.com/in/yahia-rachek-47b964304](https://www.linkedin.com/in/yahia-rachek-47b964304/) |
 | **Email** | [r.yahia.dev@gmail.com](mailto:r.yahia.dev@gmail.com) |
@@ -75,6 +76,9 @@ Modular, multi-tenant ERP systems; lot tracking and end-to-end supply-chain trac
 
 **Which technologies does he use?**
 PostgreSQL, Express, React and Node.js (PERN), Next.js, TypeScript, Prisma, Redis, Docker and Claude for agentic AI.
+
+**Has he published open-source work?**
+Yes — three developer tools on npm: [portbridge](https://github.com/YRACHEK101/portbridge) (`npx portbridge`), [Vector](https://github.com/YRACHEK101/Vector) (`npx vector-migrate@latest`) and [gity](https://github.com/YRACHEK101/gity-tool) (`npm i -g gity-tool`).
 
 **How can I contact Yahia Rachek?**
 By email at r.yahia.dev@gmail.com, on [LinkedIn](https://www.linkedin.com/in/yahia-rachek-47b964304/), or through his portfolio at [yahia-rachek.vercel.app](https://yahia-rachek.vercel.app).
