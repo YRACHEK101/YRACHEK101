@@ -1,260 +1,293 @@
-<!-- ════════════════════════ HEADER BANNER ════════════════════════ -->
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1E90FF,100:8957e5&height=200&section=header&text=Yahia%20Rachek&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Orchestration%20Engineer%20%C2%B7%20Full-Stack%20PERN%20Architect&descAlignY=60&descSize=18&animation=fadeIn" alt="Yahia Rachek" />
-</div>
-
-<!-- ════════════════════════ ROTATING ROLES ═══════════════════════ -->
-
-<div align="center">
-  <a href="https://github.com/YRACHEK101">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&height=45&lines=AI+Orchestration+Engineer+%26+Full-Stack+Architect;Building+Enterprise+ERPs+%26+Traceability+Systems;Agentic+AI+for+Scalable+PERN+Solutions;PostgreSQL+%7C+Express+%7C+React+%7C+Node.js+%2B+TypeScript" alt="Roles" />
-  </a>
-</div>
-
-<!-- ════════════════════════ STATUS BADGES ════════════════════════ -->
-
-<div align="center">
-
-&nbsp;
-![PERN Stack](https://img.shields.io/badge/PERN_Stack-Architect-00D9FF?style=for-the-badge&labelColor=0d1117)
-![AI Engineer](https://img.shields.io/badge/Agentic_AI-Engineer-8957e5?style=for-the-badge&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-Everywhere-3178C6?style=for-the-badge&labelColor=0d1117)
-![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-58a6ff?style=for-the-badge&labelColor=0d1117)
-
-<!-- ───────────── social ───────────── -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-rachek-47b964304/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.yahia.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YRACHEK101)
-![Profile Views](https://komarev.com/ghpvc/?username=YRACHEK101&label=Profile+Views&color=00d9ff&style=for-the-badge)
-
-</div>
+<!--
+  Yahia Rachek — Full-Stack Engineer & AI Orchestration Engineer
+  PERN stack (PostgreSQL, Express, React, Node.js) · TypeScript · Agentic AI · Enterprise ERP · Traceability systems
+  Portfolio: https://yahia-rachek.vercel.app
+-->
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ ABOUT ME ═════════════════════════════ -->
-
 <div align="center">
 
-## About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=3800&pause=1600&color=A1A1A6&center=true&vCenter=true&width=520&height=24&lines=Full-stack+engineer.+AI+orchestration.;Considered+software%2C+built+end+to+end.;PostgreSQL+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript">
+  <img alt="Full-stack engineer. AI orchestration. Considered software, built end to end." src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=3800&pause=1600&color=6E6E73&center=true&vCenter=true&width=520&height=24&lines=Full-stack+engineer.+AI+orchestration.;Considered+software%2C+built+end+to+end.;PostgreSQL+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript">
+</picture>
 
-> I'm a **Full-Stack Architect & AI Orchestration Engineer** who designs and ships **enterprise-grade ERP platforms** and **industrial traceability systems**.
->
-> I build production software end-to-end on the **PERN stack** *(PostgreSQL · Express · React · Node.js)* with **TypeScript everywhere**, weaving **agentic AI** into business workflows to make operations measurably faster and smarter.
+# Yahia Rachek
 
-</div>
+**Full-Stack Engineer &nbsp;·&nbsp; AI Orchestration Engineer &nbsp;·&nbsp; PERN Architect**
+
+<sub>Enterprise ERP platforms &nbsp;·&nbsp; Industrial traceability &nbsp;·&nbsp; Agentic AI in production</sub>
 
 <br/>
 
-<table>
+[Portfolio](https://yahia-rachek.vercel.app) &nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/yahia-rachek-47b964304/) &nbsp;&nbsp;·&nbsp;&nbsp;
+[Email](mailto:r.yahia.dev@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp;
+[GitHub](https://github.com/YRACHEK101)
+
+<br/>
+
+![PERN Stack](https://img.shields.io/badge/PERN_Stack-Architect-1d1d1f?style=flat-square&labelColor=f5f5f7&color=1d1d1f)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Engineer-1d1d1f?style=flat-square&labelColor=f5f5f7&color=1d1d1f)
+![TypeScript](https://img.shields.io/badge/TypeScript-Everywhere-1d1d1f?style=flat-square&labelColor=f5f5f7&color=1d1d1f)
+![Profile views](https://komarev.com/ghpvc/?username=YRACHEK101&label=Views&color=1d1d1f&style=flat-square)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## About
+
+</div>
+
+<p align="center">
+I design and build <b>enterprise ERP platforms</b> and <b>industrial traceability systems</b> —<br/>
+from the database schema to the last pixel of the interface.
+</p>
+
+<p align="center">
+I work across the full <b>PERN stack</b> <i>(PostgreSQL · Express · React · Node.js)</i> with <b>TypeScript everywhere</b>,<br/>
+and I bring <b>agentic AI</b> into real business workflows — so operations become measurably faster, and quieter.
+</p>
+
+<p align="center"><sub>Fewer moving parts. Clearer data. Software that feels inevitable.</sub></p>
+
+<br/>
+
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
-### What I Do Best
+#### What I do
 
-- **Architect & build** modular, multi-tenant ERP systems — schema to UI
-- **Design type-safe APIs** — REST + Prisma + Zod, documented with Swagger
-- **Orchestrate AI agents** — LLM automation for stock, forecasting & decisions
-- **Engineer traceability** — lot-tracking & end-to-end supply-chain visibility
-- **Ship & scale** — Docker, Redis caching, Nginx, CI/CD & E2E coverage
+- **Architecture** — modular, multi-tenant ERP systems, schema to UI
+- **APIs** — type-safe REST with Prisma and Zod, documented in Swagger
+- **AI orchestration** — LLM agents for stock, forecasting and decisions
+- **Traceability** — lot tracking and end-to-end supply-chain visibility
+- **Delivery** — Docker, Redis caching, Nginx, CI/CD and E2E coverage
 
 </td>
 <td valign="top" width="50%">
 
-### Currently Focused On
+#### Currently refining
 
-- **Agentic AI pipelines** — multi-step LLM orchestration (Claude / Anthropic)
-- **Scalable PostgreSQL** — Prisma design, indexing & query optimization
-- **Hardened backends** — Express + Helmet + rate-limiting + RBAC
-- **Quality engineering** — Playwright E2E, Jest, SonarQube & Husky gates
-- **Observability** — structured logging, metrics & production readiness
+- **Agentic pipelines** — multi-step LLM orchestration with Claude
+- **PostgreSQL at scale** — Prisma modelling, indexing, query tuning
+- **Hardened backends** — Express, Helmet, rate limiting, RBAC
+- **Quality gates** — Playwright, Jest, SonarQube and Husky
+- **Observability** — structured logging, metrics, production readiness
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ TECH STACK ═══════════════════════════ -->
+<br/><br/>
 
 <div align="center">
 
-## Tech Stack & Tools
+## Tools of the craft
+
+<br/>
 
 <table>
   <tr>
-    <td align="right" width="160"><b>Frontend</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Data &amp; Cache</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Data" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps &amp; QA</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,jest,git,linux&theme=dark" alt="DevOps" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tooling</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" alt="Tooling" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI &amp; Agents</b></td>
+    <td align="right" width="140"><sub><b>FRONTEND</b></sub></td>
     <td align="left">
-      <img src="https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" alt="Anthropic" />
-      <img src="https://img.shields.io/badge/Agentic_AI-8957e5?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="Agentic AI" />
-      <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" alt="LLM Orchestration" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark&perline=7">
+        <img alt="React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS" src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=light&perline=7">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BACKEND</b></sub></td>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql&theme=dark">
+        <img alt="Node.js, Express, Prisma, GraphQL" src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATA &amp; CACHE</b></sub></td>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis&theme=dark">
+        <img alt="PostgreSQL, Redis" src="https://skillicons.dev/icons?i=postgres,redis&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DEVOPS &amp; QA</b></sub></td>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,githubactions,jest,git,linux&theme=dark">
+        <img alt="Docker, Nginx, GitHub Actions, Jest, Git, Linux" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,jest,git,linux&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>TOOLING</b></sub></td>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark">
+        <img alt="VS Code, Postman, Figma, GitHub" src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI &amp; AGENTS</b></sub></td>
+    <td align="left">
+      <img alt="Claude / Anthropic" src="https://img.shields.io/badge/Claude_·_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-1d1d1f?style=flat-square" />
+      <img alt="LLM Orchestration" src="https://img.shields.io/badge/LLM_Orchestration-1d1d1f?style=flat-square" />
     </td>
   </tr>
 </table>
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ GITHUB ANALYTICS ═════════════════════ -->
+<br/><br/>
 
 <div align="center">
 
-## GitHub Analytics
+## The work, in numbers
 
-<sub>Live data from the GitHub API for <a href="https://github.com/YRACHEK101"><code>@YRACHEK101</code></a> — including <b>private repos &amp; commits</b> via a self-hosted stats instance.</sub>
-
-<br/><br/>
-
-<img height="170em" src="https://yrachek-stats.vercel.app/api?username=YRACHEK101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&icon_color=8957e5" alt="GitHub Stats" />
-<img height="170em" src="https://yrachek-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YRACHEK101&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=8957e5&currStreakLabel=00d9ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
-
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=8957e5&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Activity Graph" />
+<sub>Live from the GitHub API — including private repositories and commits.</sub>
 
 <br/><br/>
 
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=YRACHEK101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00d9ff" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://yrachek-stats.vercel.app/api?username=YRACHEK101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0d1117&title_color=f5f5f7&text_color=a1a1a6&icon_color=f5f5f7&ring_color=f5f5f7">
+  <img height="165" alt="Yahia Rachek — GitHub statistics" src="https://yrachek-stats.vercel.app/api?username=YRACHEK101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=ffffff&title_color=1d1d1f&text_color=6e6e73&icon_color=1d1d1f&ring_color=1d1d1f">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://yrachek-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0d1117&title_color=f5f5f7&text_color=a1a1a6">
+  <img height="165" alt="Yahia Rachek — most used languages" src="https://yrachek-stats.vercel.app/api/top-langs/?username=YRACHEK101&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=ffffff&title_color=1d1d1f&text_color=6e6e73">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YRACHEK101&hide_border=true&border_radius=16&background=0d1117&ring=f5f5f7&fire=d97757&currStreakLabel=f5f5f7&sideLabels=a1a1a6&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6e6e73&stroke=30363d">
+  <img alt="Yahia Rachek — contribution streak" src="https://streak-stats.demolab.com?user=YRACHEK101&hide_border=true&border_radius=16&background=ffffff&ring=1d1d1f&fire=d97757&currStreakLabel=1d1d1f&sideLabels=6e6e73&currStreakNum=1d1d1f&sideNums=1d1d1f&dates=86868b&stroke=e5e5ea">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&hide_border=true&radius=16&bg_color=0d1117&color=a1a1a6&title_color=f5f5f7&line=f5f5f7&point=f5f5f7&area=true&area_color=f5f5f7">
+  <img width="92%" alt="Yahia Rachek — contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=YRACHEK101&hide_border=true&radius=16&bg_color=ffffff&color=6e6e73&title_color=1d1d1f&line=1d1d1f&point=1d1d1f&area=true&area_color=1d1d1f">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YRACHEK101&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=6&column=7">
+  <img width="92%" alt="Yahia Rachek — GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=YRACHEK101&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7">
+</picture>
 
 </div>
 
-<details align="center">
-<summary><b>One-time setup — deploy your own stats instance (so the cards above always show real, private-inclusive data)</b></summary>
-
-<br/>
-
-The Stats & Top-Languages cards point to **`https://yrachek-stats.vercel.app`** — your own copy of [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats). The free public server is frequently rate-limited or paused, so self-hosting is the only way to guarantee live data **and** count your private repos. ~5 minutes:
-
-1. **Fork** the repo → <https://github.com/anuraghazra/github-readme-stats>
-2. **Create a GitHub token (PAT)** → [Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens).
-   - *Classic* token, no scopes needed for public stats; tick **`repo`** to count **private** repos/commits.
-3. **Deploy to Vercel** → <https://vercel.com/new> → import your fork.
-   - Name the project **`yrachek-stats`** (so the URL matches), then add an Environment Variable **`PAT_1`** = *your token* before deploying.
-4. **Done.** Your endpoint is `https://yrachek-stats.vercel.app/api?username=YRACHEK101...`.
-   - Used a different project name? Find-and-replace `yrachek-stats` in the `<img>` URLs above.
-
-> Keep `&include_all_commits=true&count_private=true` in the URLs — combined with the `repo`-scoped `PAT_1`, those flags surface your **complete, real** contribution totals.
-
-</details>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ LOOKING FOR ══════════════════════════ -->
+<br/><br/>
 
 <div align="center">
 
-## What I'm Looking For
+## Areas of focus
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
-### Open to Opportunities
+#### Roles I build in
 
-- **Full-Stack / PERN Engineer** — scalable products
-- **AI Engineer / LLM Orchestration** — agents in production
-- **Software Architect** — ERP, traceability & enterprise platforms
-- **Contract & Consulting** — PostgreSQL-backed Node/React systems
+- **Full-Stack / PERN Engineering** — scalable products
+- **AI Engineering / LLM Orchestration** — agents in production
+- **Software Architecture** — ERP, traceability, enterprise platforms
+- **Consulting** — PostgreSQL-backed Node and React systems
 
 </td>
 <td valign="top" width="50%">
 
-### Let's Collaborate On
+#### Problems I like
 
-- **Enterprise systems** — ERPs, dashboards, SaaS & traceability
-- **AI-powered apps** — agentic automation, RAG & decision support
-- **Developer tooling** — type-safe APIs, libraries & CI/CD
-- **Open source** — across the TypeScript & PostgreSQL ecosystem
+- **Enterprise systems** — ERPs, dashboards, SaaS, traceability
+- **AI-powered apps** — agentic automation, RAG, decision support
+- **Developer tooling** — type-safe APIs, libraries, CI/CD
+- **Open source** — the TypeScript and PostgreSQL ecosystem
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ PHILOSOPHY ═══════════════════════════ -->
+<br/><br/>
 
 <div align="center">
 
-## Engineering Philosophy
+## Principles
+
+<sub>Simplicity is not the absence of clutter. It is the result of care.</sub>
 
 </div>
+
+<br/>
 
 ```typescript
-const myApproach: EngineeringPrinciples = {
-  code:         "Type-safe, readable, and maintainable",
-  architecture: "Modular, scalable, and domain-driven",
-  data:         "PostgreSQL-first with well-modeled schemas",
-  ai:           "Agentic — orchestrating LLMs into real workflows",
-  testing:      "Unit + E2E, quality-gated before merge",
-  delivery:     "Dockerized, observable, and production-ready",
+const principles: EngineeringPrinciples = {
+  code:         "Type-safe, readable, maintainable",
+  architecture: "Modular, scalable, domain-driven",
+  data:         "PostgreSQL first — schemas modelled with care",
+  ai:           "Agentic — LLMs woven into real workflows",
+  testing:      "Unit and E2E, quality-gated before merge",
+  delivery:     "Containerised, observable, production-ready",
 };
 
-console.log("Engineering intelligent systems, one commit at a time.");
+// Engineering intelligent systems, one considered commit at a time.
 ```
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1E90FF,100:8957e5&height=2" alt="divider" />
-
-<!-- ════════════════════════ CONNECT ══════════════════════════════ -->
+<br/><br/>
 
 <div align="center">
 
-## Let's Connect
+## Say hello
 
-**Ready to build something intelligent together?**
-
-Whether you need an architect for an enterprise platform, an engineer to bring AI agents into production,<br/>or a collaborator for your next ambitious build — let's talk.
+<p>Building an enterprise platform, or bringing AI agents into production?<br/>I'd be glad to hear about it.</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-rachek-47b964304/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.yahia.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YRACHEK101)
+[yahia-rachek.vercel.app](https://yahia-rachek.vercel.app) &nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/yahia-rachek-47b964304/) &nbsp;&nbsp;·&nbsp;&nbsp;
+[r.yahia.dev@gmail.com](mailto:r.yahia.dev@gmail.com)
+
+<br/><br/>
+
+<sub>Designed with restraint. Built with care.</sub>
+
+<br/><br/>
 
 </div>
 
-<!-- ════════════════════════ FOOTER BANNER ════════════════════════ -->
+<!--
+  ─────────────────────────────────────────────────────────────────────
+  Maintainer note (hidden from visitors) — self-hosted stats instance
+  ─────────────────────────────────────────────────────────────────────
+  The stats and top-languages cards use https://yrachek-stats.vercel.app,
+  a self-hosted copy of github-readme-stats (https://github.com/anuraghazra/github-readme-stats).
+  The public server is often rate-limited, and self-hosting is what lets it count private repos.
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1E90FF,100:00D9FF&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=ffffff&fontAlignY=78&animation=fadeIn" alt="footer" />
-</div>
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Create a classic personal access token at https://github.com/settings/tokens
+     (no scopes for public stats; tick `repo` to count private repos and commits).
+  3. Import the fork at https://vercel.com/new, name the project `yrachek-stats`,
+     and add the environment variable PAT_1 = <your token> before deploying.
+  4. Endpoint: https://yrachek-stats.vercel.app/api?username=YRACHEK101
+     Using another project name? Replace `yrachek-stats` in the image URLs above.
+
+  Keep `include_all_commits=true&count_private=true` in the URLs — with a repo-scoped
+  PAT_1 they show the complete contribution totals.
+-->
